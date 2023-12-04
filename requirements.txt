@@ -1,2 +1,2 @@
-tinybird-cli==1.0.0b444
+tinybird-cli==1.1.1.dev4
 numpy==1.26.0b1
